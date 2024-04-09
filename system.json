@@ -1,0 +1,538 @@
+[
+  {
+    "id": "S1",
+    "title": "System 1",
+    "button": [
+      {
+        "id": "S1B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S1B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S1B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S2",
+    "title": "System 2",
+    "button": [
+      {
+        "id": "S2B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S2B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S2B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S3",
+    "title": "System 3",
+    "button": [
+      {
+        "id": "S3B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S3B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S3B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S4",
+    "title": "System 4",
+    "button": [
+      {
+        "id": "S4B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S4B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S4B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S5",
+    "title": "System 5",
+    "button": [
+      {
+        "id": "S5B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S5B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S5B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S6",
+    "title": "System 6",
+    "button": [
+      {
+        "id": "S6B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S6B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S6B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S7",
+    "title": "System 7",
+    "button": [
+      {
+        "id": "S7B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S7B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S7B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S8",
+    "title": "System 8",
+    "button": [
+      {
+        "id": "S8B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S8B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S8B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S9",
+    "title": "System 9",
+    "button": [
+      {
+        "id": "S9B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S9B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S9B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S10",
+    "title": "System 10",
+    "button": [
+      {
+        "id": "S10B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S10B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S10B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S11",
+    "title": "System 11",
+    "button": [
+      {
+        "id": "S11B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S11B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S11B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S12",
+    "title": "System 12",
+    "button": [
+      {
+        "id": "S12B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S12B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S12B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S13",
+    "title": "System 13",
+    "button": [
+      {
+        "id": "S13B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S13B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S13B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S14",
+    "title": "System 14",
+    "button": [
+      {
+        "id": "S14B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S14B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S14B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S15",
+    "title": "System 15",
+    "button": [
+      {
+        "id": "S15B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S15B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S15B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S16",
+    "title": "System 16",
+    "button": [
+      {
+        "id": "S16B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S16B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S16B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S17",
+    "title": "System 17",
+    "button": [
+      {
+        "id": "S17B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S17B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S17B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S18",
+    "title": "System 18",
+    "button": [
+      {
+        "id": "S18B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S18B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S18B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S19",
+    "title": "System 19",
+    "button": [
+      {
+        "id": "S19B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S19B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S19B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S20",
+    "title": "System 20",
+    "button": [
+      {
+        "id": "S20B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S20B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S20B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S21",
+    "title": "System 21",
+    "button": [
+      {
+        "id": "S21B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S21B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S21B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S22",
+    "title": "System 22",
+    "button": [
+      {
+        "id": "S22B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S22B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S22B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S23",
+    "title": "System 23",
+    "button": [
+      {
+        "id": "S23B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S23B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S23B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S24",
+    "title": "System 24",
+    "button": [
+      {
+        "id": "S24B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S24B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S24B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S25",
+    "title": "System 25",
+    "button": [
+      {
+        "id": "S25B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S25B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S25B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S26",
+    "title": "System 26",
+    "button": [
+      {
+        "id": "S26B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S26B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S26B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S27",
+    "title": "System 27",
+    "button": [
+      {
+        "id": "S27B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S27B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S27B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S28",
+    "title": "System 28",
+    "button": [
+      {
+        "id": "S28B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S28B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S28B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S29",
+    "title": "System 29",
+    "button": [
+      {
+        "id": "S29B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S29B2",
+        "title": "Quality"
+      },
+      {
+        "id": "S29B3",
+        "title": "Reset"
+      }
+    ]
+  },
+  {
+    "id": "S30",
+    "title": "System 30",
+    "button": [
+      {
+        "id": "S30B1",
+        "title": "Maintenance"
+      },
+      {
+        "id": "S30B2",
+        "title": "Quality"
+      }
+    ]
+  }
+]
